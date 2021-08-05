@@ -1,6 +1,6 @@
 # Spring boot + REST + H2 sample application
 
-### Running application
+### Running the application
 
 ```sh
 git clone https://github.com/petroczkii/quickjava.git
